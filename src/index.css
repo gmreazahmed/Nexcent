@@ -1,0 +1,19 @@
+@import "tailwindcss";
+
+.htagg {
+ color: #4D4D4D;
+
+font-size: 44.548px;
+font-style: normal;
+font-weight: 600;
+line-height: 52.901px; /* 118.75% */
+}
+
+.htag2 {
+color: var(--Brand-Primary, #4CAF4F);
+
+font-size: 44.548px;
+font-style: normal;
+font-weight: 600;
+line-height: 52.901px;
+}
