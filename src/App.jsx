@@ -1,5 +1,5 @@
-import React from 'react'
-import Section1 from './components/section1'
+
+import Section1 from './components/Section1.jsx';
 
 const App = () => {
   return (
