@@ -8,7 +8,7 @@ const Section1 = () => {
   return (
     <>
       {/* Navbar */}
-      <div>
+      <div className="max-w-7xl mx-auto">
         <nav className="flex items-center justify-between px-4 bg-white border-b border-gray-200">
           {/* Logo */}
           <div className="flex items-center">
@@ -52,10 +52,12 @@ const Section1 = () => {
       </div>
 
       {/* Hero Section */}
+     
       <div className="bacground p-10">
-        <div className="flex flex-col-reverse lg:flex-row items-center justify-between px-6 py-10 gap-8">
+         <div className="mx-auto max-w-7xl">
+        <div className="flex flex-col-reverse sm:flex-row items-center justify-between px-6 py-10 gap-8">
           {/* Text */}
-          <div className="text-center lg:text-left">
+          <div className="text-center sm:text-left">
             <h1 className="htagg">Lessons and insights</h1>
             <h1 className="htag2">from 8 years</h1>
             <p className="mt-2 text-gray-600">
@@ -77,7 +79,9 @@ const Section1 = () => {
             />
           </div>
         </div>
+        </div>
       </div>
+      
     </>
   );
 };
