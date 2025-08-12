@@ -52,7 +52,7 @@ const Section1 = () => {
       </div>
 
       {/* Hero Section */}
-      <div className="bacground">
+      <div className="bacground p-10">
         <div className="flex flex-col-reverse lg:flex-row items-center justify-between px-6 py-10 gap-8">
           {/* Text */}
           <div className="text-center lg:text-left">
@@ -61,7 +61,12 @@ const Section1 = () => {
             <p className="mt-2 text-gray-600">
               Where to grow your business as a photographer: site or social media?
             </p>
+            <button className=" mt-3 px-4 py-2 bg-green-500 text-white rounded hover:bg-green-600">
+              Register
+            </button>
+
           </div>
+          
 
           {/* Image */}
           <div className="flex justify-center lg:justify-end">
