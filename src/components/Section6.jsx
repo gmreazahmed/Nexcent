@@ -14,7 +14,7 @@ const Section6 = () => {
                       How to design your site footer like we did <br />we did
                     </h2>
                     <p className="text-gray-600 text-sm sm:text-base mb-6">
-                      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed  sit amet justo ipsum. Sed <br />accumsan quam vitae est varius fringilla. Pellentesque placerat vestibulum lorem sed <br /> porta. Nullam mattis tristique laculis. Nullam pulvinar sit amet risus pretium auctor. Etiam  quis massa pulvinar, aliquet quam vitae, tempus sem. Donec elementum pulvinar odio.
+                      Lorem ipsum dolor sit amet, consectetur adipiscing elit Sed  sit amet justo ipsum. Sed <br />accumsan quam vitae est varius fringilla. Pellentesque placerat vestibulum lorem sed <br /> porta. Nullam mattis tristique laculis. Nullam pulvinar sit amet risus pretium auctor. Etiam  quis massa pulvinar, aliquet quam vitae, tempus sem. Donec elementum pulvinar odio.
                     </p>
                     <button className="bg-green-600 text-white px-6 py-2 rounded hover:bg-green-700 transition-colors">
                       Learn More
