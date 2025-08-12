@@ -3,16 +3,16 @@
 .htagg {
  color: #4D4D4D;
 
-font-size: 70px;
+font-size: 60px;
 font-style: normal;
-font-weight: 600;
+font-weight: 500;
 line-height: 80px; /* 118.75% */
 }
 
 .htag2 {
 color: var(--Brand-Primary, #4CAF4F);
 
-font-size: 70px;
+font-size: 60px;
 font-style: normal;
 font-weight: 600;
 line-height: 80px;
