@@ -9,10 +9,10 @@ const Section1 = () => {
     <>
       {/* Navbar */}
       <div>
-        <nav className="flex items-center justify-between p-4 bg-white border-b border-gray-200">
+        <nav className="flex items-center justify-between px-4 bg-white border-b border-gray-200">
           {/* Logo */}
           <div className="flex items-center">
-            <img src={Logo} alt="Logo" className=" object-contain" />
+            <img src={Logo} alt="Logo" className=" object-contain w-[140px] h-[70px]" />
           </div>
 
           {/* Desktop Menu */}
