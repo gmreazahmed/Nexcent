@@ -16,7 +16,7 @@ const Section8 = () => {
     },
     {
       img: image20,
-      title: "Revamping the Membership Model with Triathlon Australia",
+      title: "Revamping the Membership Model with Triathlon about to Australia",
       link: "#",
     },
   ];
@@ -37,7 +37,7 @@ const Section8 = () => {
       </div>
 
       {/* Cards */}
-      <div className="max-w-6xl mx-auto grid gap-8 sm:grid-cols-2 lg:grid-cols-3">
+      <div className="max-w-6xl mx-auto grid gap-8 sm:grid-cols-3 ">
         {blogs.map((blog, idx) => (
           <div key={idx} className="flex flex-col items-center">
             {/* Image Card */}
