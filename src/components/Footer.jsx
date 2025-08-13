@@ -54,15 +54,15 @@ const Footer = () => {
         
         <div>
           <h3 className="font-semibold text-lg mb-4">Stay up to date</h3>
-          <form className="flex items-center bg-gray-600 rounded-lg overflow-hidden">
+          <form className="flex items-center bg-gray-600 rounded-lg overflow-hidden p-0">
             <input
               type="email"
               placeholder="Your email address"
-              className="w-full px-4 py-2 text-sm text-white placeholder-gray-300 bg-transparent outline-none"
+              className="w-full px-4 py-0 text-sm text-white placeholder-gray-300 bg-transparent outline-none"
             />
             <button
               type="submit"
-              className="px-4 py-2 text-gray-300 hover:text-white"
+              className="px-4 py-0 text-gray-300 hover:text-white"
             > 
              <svg xmlns="http://www.w3.org/2000/svg" width="21" height="20" viewBox="0 0 14 13" fill="none">
 <g clip-path="url(#clip0_47_137)">
