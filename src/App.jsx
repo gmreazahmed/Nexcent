@@ -5,6 +5,11 @@ import Section3 from './components/Section3.jsx';
 import Section4 from './components/Section4.jsx';
 import Section5 from './components/Section5.jsx';
 import Section6 from './components/Section6.jsx';
+import Section7 from './components/Section7.jsx';
+import Section8 from './components/Section8.jsx';
+import Section9 from './components/Section9.jsx';
+import Footer from './components/Footer.jsx';
+
 const App = () => {
   return (
     <div>
@@ -14,6 +19,10 @@ const App = () => {
       <Section4 />
       <Section5 />
       <Section6 />
+      <Section7 />
+      <Section8 />
+      <Section9 />
+      <Footer />
     </div>
   )
 }
