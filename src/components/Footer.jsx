@@ -14,7 +14,7 @@ const Footer = () => {
            
           </div>
           <p className="text-sm text-gray-400 mb-6">
-            Copyright © 2020 Landify UI Kit.
+            Copyright © 2025 Landify UI Kit.
             <br />
             All rights reserved
           </p>
